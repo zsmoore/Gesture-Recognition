@@ -1,0 +1,7 @@
+LIST OF SOURCES FOR POSSIBLE PUBLICATION
+
+
+
+OpenCV Linux Install: 
+
+1:  http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation
