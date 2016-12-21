@@ -1,3 +1,5 @@
+#ifndef GESTURE_RECOGNITION_H
+#define GESTURE_RECOGNITION_H
 /*
 *
 *   Header File For Gesture Recognition Code
@@ -7,3 +9,12 @@
 *   Written By: Zachary Moore
 *
 */
+
+
+//captures frames, finds contours on hand, maps results
+void capHand();
+
+
+
+#endif
+
