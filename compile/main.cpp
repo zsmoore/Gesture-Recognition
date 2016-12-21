@@ -1,5 +1,6 @@
 #include <iostream>
-#include "gesture-recognition.h"
+#include "../include/gesture-recognition.h"
+#include "../include/misc_cv.h"
 /*
 *
 *   Main File for Project
@@ -14,7 +15,7 @@
 
 int main(){
 
-    capHands();
+    cout << "hello" << "\n";
 
     return 0;
 }

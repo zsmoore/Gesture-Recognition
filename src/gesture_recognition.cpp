@@ -1,3 +1,5 @@
+#include "../include/gesture-recognition.h"
+
 /*
 *
 *   Code for gesture recognition
